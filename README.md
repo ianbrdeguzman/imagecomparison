@@ -1,6 +1,6 @@
 # Image Comparison Slider
 
-Check it out [here!]()
+Check it out [here!](https://ianbrdeguzman.github.io/imagecomparison/)
 
 #### Created using:
 
